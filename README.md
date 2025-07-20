@@ -136,6 +136,11 @@ terraform apply
 
 ## 📬 Author
 
-Made by Hasan Adnan
+**Built by Hasan Adnan** 🚀
+
+- 📧 Email: [hassanmoaid44@gmail.com]
+- 💼 LinkedIn: [Let's connect on LinkedIn!](https://www.linkedin.com/in/hasan-adnan-6091292bb)
+- 🐙 GitHub: [hasan4adnan](https://github.com/hasan4adnan)
+
 
 **License**: MIT
