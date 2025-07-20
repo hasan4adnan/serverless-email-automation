@@ -2,7 +2,7 @@
 
 A serverless AWS project built with **Terraform** that detects file uploads to an **S3 bucket**, triggers a **Lambda function**, and sends **email notifications** via **Amazon SES**. Optional **SNS** support included.
 
-<img width="1145" height="540" alt="Ekran Resmi 2025-07-20 00 23 22" src="https://github.com/user-attachments/assets/9470a1d8-80a2-4409-b114-a37648bf9e86" />
+<img width="1119" height="678" alt="Ekran Resmi 2025-07-20 17 31 24" src="https://github.com/user-attachments/assets/5d261950-d838-4083-964c-9fd0d8516d0e" />
 
 
 
